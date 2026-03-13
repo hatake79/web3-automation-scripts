@@ -1,0 +1,13 @@
+{
+  "name": "web3-automation-scripts",
+  "version": "1.0.0",
+  "description": "Automation scripts for Web3 monitoring and analytics",
+  "scripts": {
+    "start": "node scripts/runAll.js"
+  },
+  "dependencies": {
+    "ethers": "^6.7.0",
+    "axios": "^1.6.0",
+    "dotenv": "^16.0.0"
+  }
+}
